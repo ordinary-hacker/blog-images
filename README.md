@@ -1,0 +1,1 @@
+This isn't too much, just a Github to be able to store the images I use on my posts for my [blog](https://0rd1n4ry.bearblog.dev), because I honestly just prefer this for remote image storage, it's just more organized.
